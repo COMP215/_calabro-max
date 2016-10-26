@@ -28,7 +28,7 @@ int main(int argc, const char * argv[]) {
 
     BinarySearchTree* people_names = new BinarySearchTree();
 
-    people_names->Insert("gousie");
+ /*   people_names->Insert("gousie");
 
     people_names->Insert("patel");
 
@@ -48,11 +48,11 @@ int main(int argc, const char * argv[]) {
 
     people_names->Insert("decoste");
 
-    people_names->Insert("kahn");
+    people_names->Insert("kahn"); 
 
     
 
-    people_names->InOrder();
+    people_names->InOrder(); */
 
     return 0;
 
